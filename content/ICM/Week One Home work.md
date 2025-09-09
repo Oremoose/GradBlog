@@ -9,4 +9,7 @@ The rest of your content lives here. You can use **Markdown** here :)Computation
 ## Selfport Sketch
 https://editor.p5js.org/Oremoose/sketches/mE21zwd6V
 
-I started by Choosing this image![[IMG_1776.jpg]]
+I started by Choosing this image
+![[IMG_1776.jpg|200]]
+
+I then Metally Broke the Imafge down to 
