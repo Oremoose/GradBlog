@@ -1,9 +1,10 @@
 ---
 title: Example Title
-draft: true
+draft: false
 tags:
   - ICM
   - feature
+  - ClassNotes
 ---
  
 # Things to look up
