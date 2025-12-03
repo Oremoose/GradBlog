@@ -3,8 +3,11 @@ tags:
   - ClassNotes
   - ICM
   - VibeCoding
+title: ICM-Class One
+draft: true
 ---
-
+ 
+The rest of your content lives here. You can use **Markdown** here :)
 >Programming needs to hurt. The Struggle is needed to build the Proper Muscles.
 >\- Shawn
 

@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: ICM - Class Four
 draft: false
 tags:
   - ICM
