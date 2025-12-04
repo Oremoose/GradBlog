@@ -12,7 +12,7 @@ https://editor.p5js.org/Oremoose/sketches/mE21zwd6V
 I started by Choosing this image
 
 
-![[public/IMG_1776.jpg|400]]
+![[IMG_1776 1.jpg|400]]
 
 
 I then mentally broke the image down to its basic forms from back to front.

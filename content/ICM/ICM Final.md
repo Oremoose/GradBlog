@@ -9,7 +9,7 @@ tags:
 ---
  
 SSTV editor
-I want to use the audio features of p5js to allow someon to manipulate images via the SSTV aduio files. 
+I want to use the audio features of p5js to allow someone to manipulate images via the SSTV audio files. 
 
 The encoding format I will use is the robot36 which renders 320x240 RGB Images.
 
@@ -26,4 +26,7 @@ And the Image came out as such
 ![[decoded-image.png]]
 
 # Time to Get to work
-Things needed
+Things need:
+- Peoples Faces
+- Write the code
+- 
