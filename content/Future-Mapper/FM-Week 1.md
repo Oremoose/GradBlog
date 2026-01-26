@@ -1,5 +1,5 @@
 ---
-title: Future Mapper Week one
+title: Future Mapper Week One
 draft: false
 tags:
   - ClassNotes
@@ -59,6 +59,35 @@ Train your eye for the use of Projector and screens around us.
 
 ![[FM_Pin-3.png]]
 
+#### Define your patterns:
+
+1) What themes/moods keep repeating?
+	1) mysterious
+	2) playful
+	3) fun
+2) What visuals/materials/tech keep showing up?
+	1) Primary Colors
+	2) Illusions
+	3) basic shapes
+	4) shadows
+3) What kind of experience do you want to create?
+	1) I want to make an exsperiment that people can play with.
+	2) that can bend and slightly hurt the mind
+	3) something that is clever
+
+
 
 ## 2. Finding of the Week:
 
+Being sick I forgot to take images but I did look into the screens that display adds on the R trains.
+All that I could find is that they are Full HD LCD screens that are 50” x 10”  for the screens that are up top and 20"x20" for the Square ones that sit right above the seats.
+
+![[FM_Pin-4.png]]
+[Outfront Midea](https://www.outfront.com/resources/specs?specs=livecardmax) is that platform that runs the Ads; 15 secs for on a 180sec loop
+
+After hours of scouring the web I could not find how bright the screens are or how long they are rated to last.
+
+
+## 3) PS1 Visit — Ayoung Kim
+
+I am sick so I could not go this week but I am ready to go as soon as I am feeling better
