@@ -4,12 +4,10 @@ draft: false
 tags:
 ---
 This is My home for all the notes and Blogs of my time a ITP.
-## The Classes I am taking Fall 2025
+## The Classes I am taking Spring of 2026
 
-ICM - 
-[[Week One Home work]]
+## Future Mapper
+- [[FM-Week 1]]
 
-[[ICM-Homework-Wk 8 & 9]]
-
-
-Applications
+## New Portraits
+- [[NP-Week 1]]
