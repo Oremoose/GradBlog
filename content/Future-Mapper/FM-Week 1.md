@@ -88,6 +88,6 @@ All that I could find is that they are Full HD LCD screens that are 50” x 10�
 After hours of scouring the web I could not find how bright the screens are or how long they are rated to last.
 
 
-## 3) PS1 Visit — Ayoung Kim
+## 3. PS1 Visit — Ayoung Kim
 
 I am sick so I could not go this week but I am ready to go as soon as I am feeling better
