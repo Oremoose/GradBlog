@@ -8,6 +8,7 @@ This is My home for all the notes and Blogs of my time a ITP.
 
 ## Future Mapper
 - [[FM-Week 1]]
+- [[FM-Week 2]]
 
 ## New Portraits
 - [[NP-Week 1]]
