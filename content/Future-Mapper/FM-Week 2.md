@@ -19,7 +19,10 @@ This week I need to do the Following:
     1. Title: Dancing into Public Domain
     2. One sentence concept: A Montage of dance numbers of newly minted public domain Films
     3. Screenshot or video uploaded to YouTube:
+       https://youtu.be/j437wBYgxY4
        
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/j437wBYgxY4?si=pDtBAi0G4EiJWEeR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    4. 
        
 3. Make up from Last week: PS1 Visit — Ayoung Kim
 	1. Go to [MoMA PS1 (Ayoung Kim show)](https://www.momaps1.org/en/programs/556-ayoung-kim).
@@ -36,3 +39,9 @@ This week I need to do the Following:
 		4. 1 idea you can borrow for your project
 			1. Screens within things, I really liked the screens in the helmets. 
 			   The idea that having a screen can be use to show the view point of the object is an interesting idea.
+4. Find of the Week:
+![[Find of the Week - Week 2.png]]
+
+From the Ayoung Kim Show.
+It was connected via an HDMI cord into the Wall.
+
