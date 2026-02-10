@@ -28,7 +28,7 @@ then in Audition I took them and sliced them into one file.
 I then fed the sound file into [this decoder site](https://sstv-decoder.mathieurenaud.fr/)
 
 And the Image came out as such
-![[decoded-image.png]]
+![[public/Images/decoded-image.png]]
 
 # Time to Get to work
 Things need:
