@@ -14,6 +14,7 @@ This is My home for all the notes and Blogs of my time a ITP.
 ## New Portraits
 - [[New Port-Week 2]]
 - [[New Port-Week 3]]
+- [[New Port-Week 4]]
 
 ## Classes I Took in Fall 2025
 
