@@ -14,11 +14,15 @@ This is My home for all the notes and Blogs of my time a ITP.
 - [[FM-Week 5]]
 - [[FM-Week 6]]
 
-## New Portraits
-- [[New Port-Week 2]]
-- [[New Port-Week 3]]
-- [[New Port-Week 4]]
-- [[New Port-Week 5]]
+## AR Modalities 
+- [[ARM-Week 1]]
+- 
+
+## New Portraits (1st Half of the Semester)
+
+- [[New Portraits]]
+
+
 
 ## Classes I Took in Fall 2025
 
