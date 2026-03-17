@@ -28,17 +28,20 @@ The most popular use of AR is the 10 yard line in Football broadcasting. Started
 
 ### Class discussion
 Is it AR?
-The word overlay is being used a lot. what would make 
+The word overlay is being said a lot. does that make something more "augmented". 
 
 Perception vs augmentation. 
 
-Camrea kit is 
+### Lens Studio
+Camera kit is to use on 3rd party apps
 
 
 ## Homework 
 
-Make a nondigital AR experience.
+#### Read [Age of Instagram Face](https://www.newyorker.com/culture/decade-in-review/the-age-of-instagram-face)
+-  The article made me think of Kurt Vaughnite's Harrison Bergeron and Logans Run where youth and sameness is repeated.
+- in terms of the Class and the notion of augmentation the appeal to change for the "better" sometimes comes to changing for the same. 
 
-Read [Age of Instagram Face]()
+#### Make a nondigital AR experience.
 
 
