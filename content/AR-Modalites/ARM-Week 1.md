@@ -1,6 +1,6 @@
 ---
 title: AR Modalities Week 1
-draft: true
+draft: false
 tags:
   - ClassNotes
   - AugmentedReality
