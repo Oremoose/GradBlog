@@ -13,10 +13,10 @@ This is My home for all the notes and Blogs of my time a ITP.
 - [[FM-Week 4]]
 - [[FM-Week 5]]
 - [[FM-Week 6]]
+- [[FM-Week 7]]
 
 ## AR Modalities 
 - [[ARM-Week 1]]
-- 
 
 ## New Portraits (1st Half of the Semester)
 
