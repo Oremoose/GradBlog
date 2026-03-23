@@ -2,7 +2,6 @@
 tags:
   - ClassNotes
   - ICM
-  - VibeCoding
 title: ICM-Class One
 draft: true
 ---
