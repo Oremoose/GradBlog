@@ -1,5 +1,5 @@
 ---
-title: Future Mapper Week Seven
+title: Future Mapper Week Eight
 draft: false
 tags:
   - ClassNotes
@@ -31,11 +31,4 @@ Flight of the last Ballon (1961)
 Terror in the jungle (1968)
 King Solomon's Treasure (1979)
 
-Preparation for Audio Lab
-Please bring the following:
-
-Your team name in the holder
-MadMapper file
-Content files
-You will submit your folder to CHIKA’s hard drive at the beginning of the next class.
 
