@@ -17,6 +17,7 @@ This is My home for all the notes and Blogs of my time a ITP.
 
 ## AR Modalities 
 - [[ARM-Week 1]]
+- [[ARM-Week 2]]
 
 ## New Portraits (1st Half of the Semester)
 
