@@ -1,5 +1,5 @@
 ---
-title: AR Modalities Week 1
+title: AR Modalities Week 2
 draft: false
 tags:
 ---
