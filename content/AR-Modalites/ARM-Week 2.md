@@ -2,6 +2,10 @@
 title: AR Modalities Week 2
 draft: false
 tags:
+  - ClassNotes
+  - AugmentedReality
+  - Splatting
+  - LensStudio
 ---
 ## Class Notes:
 ### Face Computer Vision
@@ -49,9 +53,11 @@ When I made the splat I knew that the file could be quite light weight so that I
 
 So I cleaned up the splat and moved it into Lens Studio.
 Lens Studio recognized the ply file as a splat and so I bound it to the face and scaled it to the point that it encompassed the whole head.
+
 ![[IMG_4293.jpg | 400]]
 
 There was one issue the horn took up a lot of space.
+
 ![[Face Test one.gif]]
 
 So i did made a second one with a cropped horn
