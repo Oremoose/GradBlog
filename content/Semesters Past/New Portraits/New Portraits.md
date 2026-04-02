@@ -1,6 +1,6 @@
 ---
 title: New Portraits
-draft: true
+draft: false
 tags:
   - CourseOverview
   - Splatting
