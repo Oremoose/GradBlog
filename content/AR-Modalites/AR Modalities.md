@@ -1,9 +1,14 @@
 ---
 title: AR Modalities
-draft: true
+draft: false
 tags:
   - CourseOverview
   - AugmentedReality
 ---
-[[ARM-Week 1]]
-[[ARM-Week 2]]
+# Overview
+
+
+# Class Weeks
+- [[ARM-Week 1]]
+- [[ARM-Week 2]]
+- [[ARM-Week 3]]

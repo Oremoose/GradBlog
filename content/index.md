@@ -6,7 +6,7 @@ tags:
 This is My home for all the notes and Blogs of my time a ITP.
 ## The Classes I am taking Spring of 2026
 
-## Future Mapper
+## [[Future Mapper]]
 - [[FM-Week 1]]
 - [[FM-Week 2]]
 - [[FM-Week 3]]
@@ -15,11 +15,14 @@ This is My home for all the notes and Blogs of my time a ITP.
 - [[FM-Week 6]]
 - [[FM-Week 7]]
 - [[FM-Week 8]]
+- [[FM-Week 9]]
 
 
-## AR Modalities 
+## [[AR Modalities]]
 - [[ARM-Week 1]]
 - [[ARM-Week 2]]
+- [[ARM-Week 3]]
+- 
 
 ## New Portraits (1st Half of the Semester)
 
