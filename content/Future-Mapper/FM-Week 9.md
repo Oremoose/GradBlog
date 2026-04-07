@@ -8,6 +8,8 @@ tags:
 # Reflection Of the Video
 
 I have seen this episode before. And was one of the things that inspired me to expand my practice passed my photographic box.
+
+Her use of projection, light and shadow and the consideration of the viewers is really great.
 # Documentation from Last Week
 The documentation of my video from last week:
 
