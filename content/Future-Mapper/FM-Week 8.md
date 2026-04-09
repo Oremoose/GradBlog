@@ -4,6 +4,7 @@ draft: false
 tags:
   - ClassNotes
   - FutureMapper
+  - ProjectionMapping
 ---
 ## Class Notes:
 

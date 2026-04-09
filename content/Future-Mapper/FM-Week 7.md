@@ -4,6 +4,7 @@ draft: false
 tags:
   - FutureMapper
   - ClassNotes
+  - ProjectionMapping
 ---
 ## Find of the Week
 

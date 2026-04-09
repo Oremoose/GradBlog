@@ -2,6 +2,9 @@
 title: Future Mapper Week Five
 draft: false
 tags:
+  - ClassNotes
+  - ProjectionMapping
+  - FutureMapper
 ---
 ## Class Notes:
 [Blanca Regina](https://whiteemotion.com/)

@@ -2,6 +2,9 @@
 title: Future Mapper Week Four
 draft: false
 tags:
+  - ClassNotes
+  - ProjectionMapping
+  - FutureMapper
 ---
 ## Class Notes:
 

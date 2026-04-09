@@ -4,6 +4,8 @@ draft: false
 tags:
   - FutureMapper
   - Homework
+  - ProjectionMapping
+  - ClassNotes
 ---
  
 This week I need to do the Following:
