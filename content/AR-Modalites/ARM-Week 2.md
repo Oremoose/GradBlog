@@ -46,6 +46,9 @@ The reason for this is that I already had an idea from the beginning of class.
 Over spring break I went to the Whitney's Biennial.
  I saw an art piece, an inflatable by Pat Oleszko, that I liked and so I "stole" it.
  
+ ![[IMG_4224.png | 400]]
+ 
+ 
  And by stole I mean that I took a very intentional video of the work so that I can make a Gaussian splat from it. (for more info on that look at my blog posts from [[New Portraits]])
  ![[MakingTheWhitneySplat.gif | 100000]]
  
