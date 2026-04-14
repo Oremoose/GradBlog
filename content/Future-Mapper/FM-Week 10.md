@@ -1,6 +1,6 @@
 ---
 title: Future Mapper Week Ten
-draft: true
+draft: false
 tags:
   - ClassNotes
   - FutureMapper
@@ -21,3 +21,6 @@ DMX512 512 Channels
 ## Homework 
 
 17 different colors on the strip
+![[Screenshot 2026-04-13 202059.png]]
+
+![[0413.gif]]
