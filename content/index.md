@@ -17,6 +17,7 @@ This is My home for all the notes and Blogs of my time a ITP.
 - [[FM-Week 8]]
 - [[FM-Week 9]]
 - [[FM-Week 10]]
+- [[FM-Week 11]]
 
 
 ## [[AR Modalities]]
@@ -24,6 +25,8 @@ This is My home for all the notes and Blogs of my time a ITP.
 - [[ARM-Week 2]]
 - [[ARM-Week 3]]
 - [[ARM-Week 4]]
+- [[ARM-Week 5]]
+
 
 ## New Portraits (1st Half of the Semester)
 
