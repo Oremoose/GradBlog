@@ -12,9 +12,11 @@ Build Geometric shape add LEDs
 I decided to make a geometric dome.
 
 In Class I made a very bad top of the dome
+
 ![[IMG_4369.png | 400]]
 
 Unhappy with my untidy hand cutting so I used a matte cutter to get better pieces.
+
 ![[IMG_4370.png | 400]]
 
 I built a mock up with tape to get an idea of the size of it all.
