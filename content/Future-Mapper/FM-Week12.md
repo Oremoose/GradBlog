@@ -1,6 +1,6 @@
 ---
-title: Future Mapper Week Twelve
-draft: true
+title: 12 Future Mapper Week Twelve
+draft: false
 tags:
   - FutureMapper
   - ClassNotes

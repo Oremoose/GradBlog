@@ -1,5 +1,5 @@
 ---
-title: Future Mapper Week Ten
+title: 10 Future Mapper Week Ten
 draft: false
 tags:
   - ClassNotes
