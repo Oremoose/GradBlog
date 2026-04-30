@@ -26,6 +26,7 @@ This is My home for all the notes and Blogs of my time a ITP.
 - [[ARM-Week 3]]
 - [[ARM-Week 4]]
 - [[ARM-Week 5]]
+- [[ARM-Week 6]]
 
 
 ## New Portraits (1st Half of the Semester)

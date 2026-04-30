@@ -75,6 +75,8 @@ So I kept the original and then added the kiss face gesture to toggle the head o
 The trigger didn't work as consistently as i wanted.
 But I think that is a snapchat issue not me.
 
+![[Pasted image 20260429211336.png]]
+
 ### Reading:
 https://www.vice.com/en/article/is-animating-dead-relatives-with-ai-cathartic-or-creepy-yes/
 
