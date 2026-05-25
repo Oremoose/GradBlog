@@ -6,7 +6,7 @@ tags:
   - ProjectionMapping
 ---
 # Overview
-
+This Class went over the Program Mad Mapper. And I learned Projection Mapping and LED Controls Via DMX
 
 # Class Weeks
 - [[FM-Week 1]]
