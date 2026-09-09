@@ -7,10 +7,12 @@ tags:
 ---
 ## Class Notes:
 
-itp.nyu.edu/physcomp/
+[itp.nyu.edu/physcomp/]
 
 
 
 ## Homework 
-[ ] Get small containers for components
+- [ ] Get small containers for components
+- [ ] Read 
+
 
