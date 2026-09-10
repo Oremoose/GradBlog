@@ -23,6 +23,7 @@ Make a box for a deck of cards:
 ### Building the Box
 
 After the Drill press the hole was not deep enough
+
 ![[IMG_5607.png | 400]]
 
 
