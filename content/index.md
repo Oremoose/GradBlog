@@ -11,6 +11,7 @@ This is My home for all the notes and Blogs of my time a ITP.
 
 [[Intro To Fabrication]]
 - [[I2Fab Week 1|Week 1]]
+- [[I2Fab Week 2|Week 2]]
 
 ## Classes I Took in The 2025/2026 Academic Year
 ### Fall 2025
