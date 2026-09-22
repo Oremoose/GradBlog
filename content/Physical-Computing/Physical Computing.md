@@ -12,4 +12,4 @@ All computing is physical. We work with computational systems by taking action w
 
 # Class Weeks
 - [[Phys Comp Week 1| Week 1]]
-- 
+- [[Phys Comp Week 2|Week 2]]
