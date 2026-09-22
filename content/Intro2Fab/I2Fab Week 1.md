@@ -2,6 +2,8 @@
 title: Intro to Fabrication week 1
 draft: false
 tags:
+  - Fabrication
+  - ClassNotes
 ---
 ## Class Notes:
 
