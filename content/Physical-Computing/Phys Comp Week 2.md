@@ -32,8 +32,8 @@ When coding with switches:
 
 #### Lab: Digital Input and Output
 
-![[0921.gif]]
+![[DigiInput.gif]]
 
 #### Lab: Analog Input
 
-![[0921(1).gif]]
+![[AnaInput.gif]]
