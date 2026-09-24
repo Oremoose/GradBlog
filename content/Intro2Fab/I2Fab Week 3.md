@@ -7,13 +7,30 @@ tags:
 ---
 ## Class Notes:
 
+Clear Drilling is where there is no gap between surfaces but there is joining or movement. Like the box lids that unscrew themselves.
 
+Laser Cutting Demo.
+
+The Stroke should be .001 basic and uniform. 
+The color space of the document should be RGB
+
+To Engrave (aka Raster) text:
+- Type
+- convert to outlines
+- Uncompound the path
+- Recompound the path
+
+Always Raster then Cut.
+The larger cutter can color coat the layers and go in the order that you set.
+The smaller ones cannot.
 ## Homework 
 
 ### GOBLIN TRAP!
 ![[Trap Sketch.png]]
 
-I began by researching simple traps and saw [this design online](https://www.fourteenacre.co.uk/design/drop-top-box-trap/)
+I began by researching simple traps and saw [this design online.](https://www.fourteenacre.co.uk/design/drop-top-box-trap/)
+
+
 ![[Drop-Top-Box-thumb.jpg|300]]
 
 I then found the site called [Cuttle](https://cuttle.xyz/@cuttle/Closed-Box-with-Finger-Joints-blQZfaiFfZvv) It had a tool where I can make a finger joint box template for laser cutting that helped me make the rough outline of the trap.
@@ -33,5 +50,6 @@ I did run into my firs issue and that was when I went to make my second smaller 
 ![[IMG_5670.png|600]]
 
 After going back to the tool and remaking a template to the appropriate size and added my modifications. I was done.
+
 ![[IMG_5665.png|300]]
 ![[IMG_5663.png|300]]
