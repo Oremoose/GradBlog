@@ -59,7 +59,7 @@ Still having the potentiometer on my board from the last lab I used it to move m
 I then used the pressure sensor. I had an issue that the senor was picking up phantom pressure so the servo would twich on its own:
 
 
-![[pressure one.gif]]![[pressure two.gif]]
+![[pressure one.gif]]
 
 I fixed that with fine tuning the mapping in the code:
 
