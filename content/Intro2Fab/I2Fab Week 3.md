@@ -4,6 +4,7 @@ draft: false
 tags:
   - Fabrication
   - ClassNotes
+  - LaserCutter
 ---
 ## Class Notes:
 
