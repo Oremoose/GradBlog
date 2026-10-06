@@ -5,6 +5,7 @@ tags:
   - Fabrication
   - ClassNotes
   - LaserCutter
+  - Enclosure
 ---
 ## Class Notes:
 
