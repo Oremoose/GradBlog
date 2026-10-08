@@ -14,3 +14,4 @@ This Class was an overview of the different modalities of Augmented reality and 
 - [[I2Fab Week 2|Week 2]]
 - [[I2Fab Week 3|Week 3]]
 - [[I2Fab Week 4|Week 4]]
+- [[I2Fab Week 5|Week 5]]
