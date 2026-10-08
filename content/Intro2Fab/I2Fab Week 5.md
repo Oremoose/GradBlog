@@ -19,7 +19,7 @@ tags:
 - Rivets are for when you you cannot fasten a nut from the other side
 - Rivnut  is a rivet that has threading in it
 
-
+#### Sticking things together 
 ![[adhesive_chart_big.webp|800]]
 
 https://www.thistothat.com/index.shtml
