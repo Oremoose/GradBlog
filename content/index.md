@@ -18,6 +18,7 @@ This is My home for all the notes and Blogs of my time a ITP.
 - [[I2Fab Week 3|Week 3]]
 - [[I2Fab Week 4|Week 4]]
 - [[I2Fab Week 5|Week 5]]
+- [[I2Fab Week 6|Week 6]]
 
 
 

@@ -2,6 +2,9 @@
 title: Physical Computing  Week 4
 draft: false
 tags:
+  - ClassNotes
+  - component
+  - Physical-Computing
 ---
 ## Class Notes:
 Resistor set up
