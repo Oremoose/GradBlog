@@ -11,6 +11,8 @@ This is My home for all the notes and Blogs of my time a ITP.
 - [[Phys Comp Week 2|Week 2]]
 - [[Phys Comp Week 3|Week 3]]
 - [[Phys Comp Week 4|Week 4]]
+- [[Phys Comp Week 5|Week 5]]
+- [[Phys Comp Week 6 - Midterm|Week 6 Midterm]]
 
 [[Intro To Fabrication]]
 - [[I2Fab Week 1|Week 1]]
