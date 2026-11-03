@@ -1,5 +1,5 @@
 ---
-title: Physical Computing  Week 4
+title: Physical Computing Week 4
 draft: false
 tags:
   - ClassNotes

@@ -1,5 +1,5 @@
 ---
-title: Physical Computing  Week 6 Midterm
+title: Physical Computing Week 6 Midterm
 draft: false
 tags:
   - ClassNotes

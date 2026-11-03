@@ -1,5 +1,5 @@
 ---
-title: Physical Computing  Week 7 Midterm
+title: Physical Computing Week 7 Midterm
 draft: false
 tags:
   - ClassNotes
@@ -15,3 +15,8 @@ here is the video of out band in action:
 <iframe src="https://drive.google.com/file/d/1uuY_F7rB1K3x4rQl3EeAnufdsvQy_DSc/preview" width="640" height="480"></iframe>
 
 ![[Screenshot 2026-10-26 210748.png]]
+
+## Labs:
+Since I was sick I wasn't able to work on the labs over the weekend like i normally can.
+[[Phys Comp Week 8 - Midterm Reflection|See Week 8 for my notes on catching up]]
+

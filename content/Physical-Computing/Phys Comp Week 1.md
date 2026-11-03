@@ -1,5 +1,5 @@
 ---
-title: Physical Computing  Week 1
+title: Physical Computing Week 1
 draft: false
 tags:
   - ClassNotes
