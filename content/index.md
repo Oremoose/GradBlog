@@ -13,7 +13,7 @@ This is My home for all the notes and Blogs of my time a ITP.
 - [[Phys Comp Week 4|Week 4]]
 - [[Phys Comp Week 5|Week 5]]
 - [[Phys Comp Week 6 - Midterm|Week 6 Midterm]]
-- [[Phys Comp Week 7 - Midterm part2 -illness|| Week 7]]
+- [[Phys Comp Week 7 - Midterm part2 -illness| Week 7]]
 - [[Phys Comp Week 8 - Midterm Reflection| Week 8 Midterm Reflection]]
 
 [[Intro To Fabrication]]
