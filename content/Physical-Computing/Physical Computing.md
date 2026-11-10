@@ -19,3 +19,4 @@ All computing is physical. We work with computational systems by taking action w
 - [[Phys Comp Week 6 - Midterm|Week 6 Midterm]]
 - [[Phys Comp Week 7 - Midterm part2 -illness|Week 7]]
 - [[Phys Comp Week 8 - Midterm Reflection|Week 8 Midterm Reflection]]
+- [[Phys Comp Week 9|Week 9]]
